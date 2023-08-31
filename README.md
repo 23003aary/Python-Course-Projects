@@ -1,2 +1,2 @@
 # Python-Course-Projects
-Projects worked on with a partner for the python course 
+This repository consists of 3 projects that were 
